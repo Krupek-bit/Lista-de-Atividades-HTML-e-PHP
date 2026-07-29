@@ -5,3 +5,7 @@ $pessoa = [
     "Cidade" => "São Paulo",
     "Tchola" => "Sim"
 ];
+foreach ($pessoa as $chave => $valor) {
+    echo "$chave: $valor <br>";
+}
+?>
