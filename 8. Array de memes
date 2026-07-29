@@ -6,3 +6,7 @@ $memes = [
     "Grumpy Cat",
     "Success Kid"
 ];
+foreach ($memes as $meme) {
+    echo $meme . "<br>";
+}
+?>
