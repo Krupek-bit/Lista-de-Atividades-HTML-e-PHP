@@ -12,3 +12,17 @@ Email:<br>
 
 Telefone:<br>
 <input type="text" name="telefone"><br><br>
+Data de nascimento:<br>
+<input type="date" name="data"><br><br>
+
+Cidade:<br>
+<input type="text" name="cidade"><br><br>
+
+Estado:<br>
+<input type="text" name="estado"><br><br>
+
+Sexo:<br>
+<input type="text" name="sexo"><br><br>
+
+Curso:<br>
+<input type="text" name="curso"><br><br>
