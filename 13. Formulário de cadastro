@@ -26,3 +26,15 @@ Sexo:<br>
 
 Curso:<br>
 <input type="text" name="curso"><br><br>
+Observações:<br>
+<textarea name="obs"></textarea><br><br>
+
+<input type="submit" value="Cadastrar">
+
+</form>
+
+<?php
+
+if ($_SERVER["REQUEST_METHOD"] == "POST") {
+
+echo "<h2>Cartão de Cadastro</h2>";
