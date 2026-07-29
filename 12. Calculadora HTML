@@ -1,1 +1,11 @@
+<!DOCTYPE html>
+<html>
+<body>
 
+<form method="post">
+
+Número 1:
+<input type="number" name="n1"><br><br>
+
+Número 2:
+<input type="number" name="n2"><br><br>
