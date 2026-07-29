@@ -17,3 +17,9 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $altura = $_POST["altura"];
 
     $imc = $peso / ($altura * $altura);
+    echo "<h2>Seu IMC é: " . number_format($imc, 2) . "</h2>";
+}
+?>
+
+</body>
+</html>
