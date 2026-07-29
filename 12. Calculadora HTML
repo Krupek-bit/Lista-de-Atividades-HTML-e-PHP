@@ -9,3 +9,7 @@ Número 1:
 
 Número 2:
 <input type="number" name="n2"><br><br>
+<button name="op" value="+">Somar</button>
+<button name="op" value="-">Subtrair</button>
+<button name="op" value="*">Multiplicar</button>
+<button name="op" value="/">Dividir</button>
