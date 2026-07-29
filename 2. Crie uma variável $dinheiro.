@@ -1,0 +1,5 @@
+<?php
+$dinheiro = 8000;
+
+if ($dinheiro < 1000) {
+    echo "Pobre";
