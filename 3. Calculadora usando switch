@@ -7,3 +7,19 @@ switch ($operacao) {
     case "+":
         echo $numero1 + $numero2;
         break;
+    case "-":
+        echo $numero1 - $numero2;
+        break;
+
+    case "*":
+        echo $numero1 * $numero2;
+        break;
+
+    case "/":
+        echo $numero1 / $numero2;
+        break;
+
+    default:
+        echo "Operação inválida.";
+}
+?>
