@@ -1,1 +1,8 @@
-
+<?php
+$memes = [
+    "Doge",
+    "Troll Face",
+    "Pepe",
+    "Grumpy Cat",
+    "Success Kid"
+];
