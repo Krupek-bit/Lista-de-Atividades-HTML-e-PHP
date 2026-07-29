@@ -39,3 +39,11 @@ case "*":
 case "/":
     echo $n1 / $n2;
     break;
+}
+
+}
+
+?>
+
+</body>
+</html>
