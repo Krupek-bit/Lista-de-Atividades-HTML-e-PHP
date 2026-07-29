@@ -10,3 +10,9 @@ function calcular($a, $b)
         "frase" => "Você é incrível!"
     ];
 }
+$resultado = calcular(10, 5);
+
+echo "Soma: " . $resultado["soma"] . "<br>";
+echo "Subtração: " . $resultado["subtracao"] . "<br>";
+echo $resultado["frase"];
+?>
