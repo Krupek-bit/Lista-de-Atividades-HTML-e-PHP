@@ -38,3 +38,19 @@ Observações:<br>
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
 echo "<h2>Cartão de Cadastro</h2>";
+echo "Nome: " . $_POST["nome"] . "<br>";
+echo "Email: " . $_POST["email"] . "<br>";
+echo "Telefone: " . $_POST["telefone"] . "<br>";
+echo "Data de nascimento: " . $_POST["data"] . "<br>";
+echo "Cidade: " . $_POST["cidade"] . "<br>";
+echo "Estado: " . $_POST["estado"] . "<br>";
+echo "Sexo: " . $_POST["sexo"] . "<br>";
+echo "Curso: " . $_POST["curso"] . "<br>";
+echo "Observações: " . $_POST["obs"] . "<br>";
+
+}
+
+?>
+
+</body>
+</html>
