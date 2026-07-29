@@ -1,1 +1,14 @@
+<!DOCTYPE html>
+<html>
+<body>
 
+<form method="post">
+
+Nome:<br>
+<input type="text" name="nome"><br><br>
+
+Email:<br>
+<input type="email" name="email"><br><br>
+
+Telefone:<br>
+<input type="text" name="telefone"><br><br>
